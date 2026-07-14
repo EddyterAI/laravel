@@ -8,7 +8,7 @@ final class EddyterAssets
      * The @eddyter/core SDK version this package release is built against.
      * Managed by the package — not configurable by the host application.
      */
-    public const SDK_VERSION = '1.0.1';
+    public const SDK_VERSION = '1.0.2';
 
     public static function scriptUrl(): string
     {
